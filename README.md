@@ -155,14 +155,14 @@ A mobile client built with [Flutter](https://flutter.dev) which supports Android
 cd ./mobile_client_flutter && flutter run
 ```
 
-### [`/web-react-ts`](./web-react-ts)
+### [`/web-react`](./web-react)
 
 A UI built with [CRA](https://reactjs.org/docs/create-a-new-react-app.html)
 
 _Start the React dev server_
 
 ```
-cd ./web-react-ts && npm start
+cd ./web-react && npm start
 ```
 
 ## Deployment
